@@ -1,3 +1,5 @@
+library(devtools)
+install_github("bomeara/cv")
 library(cv)
 CreateMarkdown()
 system(paste("cp ", tempdir(), "/*md .", sep=""))

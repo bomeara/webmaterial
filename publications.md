@@ -3,12 +3,12 @@
 ##Publications: Papers
 
 
-According to Google Scholar, my work has been cited 1959 times, and my h-index is 17. (Google Scholar tends to overestimate citations, however).
+According to Google Scholar, my work has been cited 1970 times, and my h-index is 17. (Google Scholar tends to overestimate citations, however).
 
 
 According to NSF-funded [ImpactStory.org](https://impactstory.org/u/0000-0002-0337-5997), a source of altmetrics data (a measure of impact beyond citations), my work has various impacts:
 
-* My top publication has been saved and shared 510 times. Only 10% of researchers get this much attention on a publication.
+* My top publication has been saved and shared 513 times. Only 10% of researchers get this much attention on a publication.
 
 * My research has been saved and shared in 58 countries. That's high: only 4% of researchers get that much international attention.
 
