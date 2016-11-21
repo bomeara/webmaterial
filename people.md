@@ -9,9 +9,9 @@ I have mentored numerous postdocs off of my own grants and/or as one of their ch
 |:-----------------------------------------------------------------|:------------|:-------|:---------------------------------------------------------------|
 |[Hugo Alamillo](https://people.northseattle.edu/users/halamillo)  |2011-2012    |N       |Assistant Professor North Seattle College                       |
 |[Barb Banbury](https://www.linkedin.com/in/bbanbury)              |2010-2012    |N       |Statistical Analyst at Fred Hutch                               |
-|[Jeremy Beaulieu](http://www.jeremybeaulieu.org/)                 |2012-present |Both    |                                                                |
+|[Jeremy Beaulieu](http://www.jeremybeaulieu.org/)                 |2012-2016    |Both    |Assistant Professor at U. of Arkansas                           |
 |Juanjuan (JJ) Crosskey (formerly Chai)                            |2011-2013    |Y       |Member of Comparative Genomics group at Oak Ridge National Lab  |
-|[Nathan Jackson](http://nathandjackson.com/)                      |2013-present |N       |                                                                |
+|[Nathan Jackson](http://nathandjackson.com/)                      |2013-2016    |N       |Researcher at National Jewish Health                            |
 |[Tony Jhwueng](http://www.tonyjhwueng.info/)                      |2009-2011    |Y       |Assistant Professor Feng-Chia U., Taiwan                        |
 |[Sandy Kawano](http://sandykawano.weebly.com/)                    |2014-2016    |Y       |Starting as Assistant Professor at  CSU Long Beach in Aug. 2017 |
 |[Michelle Lawing](michelle lawing)                                |2012-2014    |Y       |Assistant Professor Texas A&M                                   |
