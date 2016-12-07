@@ -3,12 +3,12 @@
 ##Publications: Papers
 
 
-According to Google Scholar, my work has been cited 2118 times, and my h-index is 17. (Google Scholar tends to overestimate citations, however).
+According to Google Scholar, my work has been cited 2139 times, and my h-index is 18. (Google Scholar tends to overestimate citations, however).
 
 
 According to NSF-funded [ImpactStory.org](https://impactstory.org/u/0000-0002-0337-5997), a source of altmetrics data (a measure of impact beyond citations), my work has various impacts:
 
-* My research has been saved and shared in 56 countries. That's high: only 2% of researchers get that much international attention.
+* My research has been saved and shared in 56 countries. That's high: only 1% of researchers get that much international attention.
 
 * My research software keeps on giving.  My software impact is in the top 27 percent of all research software creators on Depsy. 
 
