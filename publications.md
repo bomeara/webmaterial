@@ -22,13 +22,9 @@ Biological Sciences_ 283.1830.
 state-dependent models of diversification”. In: _American Journal of
 Botany_. 10.3732/ajb.1600012.
 
-Beaulieu, J. and B. **O'Meara** (2016a). “Detecting hidden diversification
+Beaulieu, J. and B. **O'Meara** (2016). “Detecting hidden diversification
 shifts in models of trait-dependent speciation and extinction”. In:
 _Systematic Biology_ 65.4, pp. 583-601.
-
-Beaulieu, J. M. and B. C. **O'Meara** (2016b). “Detecting hidden
-diversification shifts in models of trait-dependent speciation and
-extinction”. In: _Systematic Biology_, p. syw022.
 
 Zanne, A, D. Tank, W. Cornwell, J. Eastman, S. Smith, R. Fitzjohn, D.
 McGlinn, B. **O'Meara**, A. Moles, P. Reich, D. Royer, D. Soltis, P.
@@ -45,44 +41,18 @@ L. Warman and J. Beaulieu (2015b). “Erratum: Three keys to the
 radiation of angiosperms into freezing environments (Nature (2014) 506
 (89-92) (Doi:10.1038/nature12872))”. In: _Nature_ 521.7552.
 
-Zanne, A. E, D. C. Tank, W. K. Cornwell, J. M. Eastman, S. A. Smith, R.
-G. FitzJohn, D. J. McGlinn, B. C. **O'Meara**, A. T. Moles, P. B. Reich, D.
-L. Royer, D. E. Soltis, P. F. Stevens, M. Westoby, I. J. Wright, L.
-Aarssen, R. I. Bertin, A. Calaminus, R. Govaerts, F. Hemmings, M. R.
-Leishman, J. Oleksyn, P. S. Soltis, N. G. Swenson, L. Warman and J. M.
-Beaulieu (2015a). “Zanne et al. reply”. In: _Nature_ 521.7552, pp.
-E6-E7.
-
-Zanne, A. E, D. C. Tank, W. K. Cornwell, J. M. Eastman, S. A. Smith, R.
-G. FitzJohn, D. J. McGlinn, B. C. **O'Meara**, A. T. Moles, P. B. Reich, D.
-L. Royer, D. E. Soltis, P. F. Stevens, M. Westoby, I. J. Wright, L.
-Aarssen, R. I. Bertin, A. Calaminus, R. Govaerts, F. Hemmings, M. R.
-Leishman, J. Oleksyn, P. S. Soltis, N. G. Swenson, L. Warman and J. M.
-Beaulieu (2015b). “Corrigendum: Three keys to the radiation of
-angiosperms into freezing environments”. In: _Nature_ 521.7552, pp.
-380-380.
-
 **O'Meara**, B, K. Graham, S. Pellis and G. Burghardt (2015). “Evolutionary
 models for the retention of adult?adult social play in primates: The
 roles of diet and other factors associated with resource acquisition”.
 In: _Adaptive Behavior_ 23.6, pp. 381-391.
 
-Beaulieu, J, B. **O'Meara**, P. Crane and M. Donoghue (2015a).
+Beaulieu, J, B. **O'Meara**, P. Crane and M. Donoghue (2015).
 “Heterogeneous rates of molecular evolution and diversification could
 explain the triassic age estimate for angiosperms”. In: _Systematic
 Biology_ 64.5, pp. 869-878.
 
-Beaulieu, J. and B. **O'Meara** (2015a). “Extinction can be estimated from
+Beaulieu, J. and B. **O'Meara** (2015). “Extinction can be estimated from
 moderately sized molecular phylogenies”. In: _Evolution_ 69.4, pp.
-1036-1043.
-
-Beaulieu, J. M, B. C. **O'Meara**, P. Crane and M. J. Donoghue (2015b).
-“Heterogeneous Rates of Molecular Evolution and Diversification Could
-Explain the Triassic Age Estimate for Angiosperms”. In: _Systematic
-Biology_ 64.5, pp. 869-878.
-
-Beaulieu, J. M. and B. C. **O'Meara** (2015b). “Extinction can be estimated
-from moderately sized molecular phylogenies”. In: _Evolution_ 69.4, pp.
 1036-1043.
 
 Aldrovandi, M, J. Johnson, B. **O'Meara**, R. Petersen and K. Hughes
@@ -94,9 +64,9 @@ Zanne, A, D. Tank, W. Cornwell, J. Eastman, S. Smith, R. FitzJohn, D.
 McGlinn, B. **O'Meara**, A. Moles, P. Reich, D. Royer, D. Soltis, P.
 Stevens, M. Westoby, I. Wright, L. Aarssen, R. Bertin, A. Calaminus, R.
 Govaerts, F. Hemmings, M. Leishman, J. Oleksyn, P. Soltis, N. Swenson,
-L. Warman and J. Beaulieu (2014a). “Erratum: Three keys to the
-radiation of angiosperms into freezing environments (Nature (2014) 506
-(89-92) DOI:10.1038/nature12872)”. In: _Nature_ 514.7522.
+L. Warman and J. Beaulieu (2014). “Erratum: Three keys to the radiation
+of angiosperms into freezing environments (Nature (2014) 506 (89-92)
+DOI:10.1038/nature12872)”. In: _Nature_ 514.7522.
 
 Zanne, A, D. Tank, W. Cornwell, J. Eastman, S. Smith, R. Fitzjohn, D.
 McGlinn, B. **O'Meara**, A. Moles, P. Reich, D. Royer, D. Soltis, P.
@@ -106,28 +76,14 @@ L. Warman and J. Beaulieu (2014). “Three keys to the radiation of
 angiosperms into freezing environments”. In: _Nature_ 506.7486, pp.
 89-92.
 
-Zanne, A. E, D. C. Tank, W. K. Cornwell, J. M. Eastman, S. A. Smith, R.
-G. FitzJohn, D. J. McGlinn, B. C. **O'Meara**, A. T. Moles, P. B. Reich, D.
-L. Royer, D. E. Soltis, P. F. Stevens, M. Westoby, I. J. Wright, L.
-Aarssen, R. I. Bertin, A. Calaminus, R. Govaerts, F. Hemmings, M. R.
-Leishman, J. Oleksyn, P. S. Soltis, N. G. Swenson, L. Warman and J. M.
-Beaulieu (2014b). “Corrigendum: Three keys to the radiation of
-angiosperms into freezing environments”. In: _Nature_ 514.7522, pp.
-394-394.
-
 Williams, J, M. Taylor and B. **O'Meara** (2014). “Repeated evolution of
 tricellular (and bicellular) pollen”. In: _American Journal of Botany_
 101.4, pp. 559-571.
 
-Jhwueng, D, S. Huzurbazar, B. **O'Meara** and L. Liu (2014a).
-“Investigating the performance of AIC in selecting phylogenetic
-models”. In: _Statistical Applications in Genetics and Molecular
-Biology_ 13.4, pp. 459-475.
-
-Jhwueng, D, S. Huzurbazar, B. C. **O'Meara** and L. Liu (2014b).
-“Investigating the performance of AIC in selecting phylogenetic
-models”. In: _Statistical Applications in Genetics and Molecular
-Biology_ 13.4.
+Jhwueng, D, S. Huzurbazar, B. **O'Meara** and L. Liu (2014). “Investigating
+the performance of AIC in selecting phylogenetic models”. In:
+_Statistical Applications in Genetics and Molecular Biology_ 13.4, pp.
+459-475.
 
 Cornwell, W, M. Westoby, D. Falster, R. Fitzjohn, B. **O'Meara**, M.
 Pennell, D. McGlinn, J. Eastman, A. Moles, P. Reich, D. Tank, I.
@@ -136,36 +92,16 @@ Niinemets, J. Oleksyn, A. Ordonez, D. Royer, S. Smith, P. Stevens, L.
 Warman, P. Wilf and A. Zanne (2014). “Functional distinctiveness of
 major plant lineages”. In: _Journal of Ecology_ 102.2, pp. 345-356.
 
-Banbury, B. and B. **O'Meara** (2014a). “Reol: R interface to the
+Banbury, B. and B. **O'Meara** (2014). “Reol: R interface to the
 encyclopedia of life”. In: _Ecology and Evolution_ 4.12, pp. 2577-2583.
-
-Banbury, B. L. and B. C. **O'Meara** (2014b). “Reol: R interface to the
-Encyclopedia of Life”. In: _Ecol Evol_ 4.12, pp. 2577-2583.
-
-Zanne, A. E, D. C. Tank, W. K. Cornwell, J. M. Eastman, S. A. Smith, R.
-G. FitzJohn, D. J. McGlinn, B. C. **O'Meara**, A. T. Moles, P. B. Reich, D.
-L. Royer, D. E. Soltis, P. F. Stevens, M. Westoby, I. J. Wright, L.
-Aarssen, R. I. Bertin, A. Calaminus, R. Govaerts, F. Hemmings, M. R.
-Leishman, J. Oleksyn, P. S. Soltis, N. G. Swenson, L. Warman and J. M.
-Beaulieu (2013). “Three keys to the radiation of angiosperms into
-freezing environments”. In: _Nature_ 506.7486, pp. 89-92.
 
 Stoltzfus, A, H. Lapp, N. Matasci, H. Deus, B. Sidlauskas, C. Zmasek,
 G. Vaidya, E. Pontelli, K. Cranston, R. Vos, C. Webb, L. Harmon, M.
 Pirrung, B. **O'Meara**, M. Pennell, S. Mirarab, M. Rosenberg, J. Balhoff,
 H. Bik, T. Heath, P. Midford, J. Brown, E. McTavish, J. Sukumaran, M.
-Westneat, M. Alfaro, A. Steele and G. Jordan (2013a). “Phylotastic!
+Westneat, M. Alfaro, A. Steele and G. Jordan (2013). “Phylotastic!
 Making tree-of-life knowledge accessible, reusable and convenient”. In:
 _BMC Bioinformatics_ 14.
-
-Stoltzfus, A, H. Lapp, N. Matasci, H. Deus, B. Sidlauskas, C. M.
-Zmasek, G. Vaidya, E. Pontelli, K. Cranston, R. Vos, C. O. Webb, L. J.
-Harmon, M. Pirrung, B. **O'Meara**, M. W. Pennell, S. Mirarab, M. S.
-Rosenberg, J. P. Balhoff, H. M. Bik, T. A. Heath, P. E. Midford, J. W.
-Brown, E. J. McTavish, J. Sukumaran, M. Westneat, M. E. Alfaro, A.
-Steele and G. Jordan (2013b). “Phylotastic! Making tree-of-life
-knowledge accessible, reusable and convenient”. In: _BMC
-Bioinformatics_ 14.1, p. 158.
 
 Soltis, D, M. Mort, M. Latvis, E. Mavrodiev, B. **O'Meara**, P. Soltis, J.
 Burleigh and R. De Casas (2013). “Phylogenetic relationships and
@@ -182,22 +118,13 @@ evolution of plant habit in campanulid angiosperms”. In: _Systematic
 Biology_ 62.5, pp. 725-737.
 
 Stoltzfus, A, B. **O'Meara**, J. Whitacre, R. Mounce, E. Gillespie, S.
-Kumar, D. Rosauer and R. Vos (2012a). “Sharing and re-use of
+Kumar, D. Rosauer and R. Vos (2012). “Sharing and re-use of
 phylogenetic trees (and associated data) to facilitate synthesis”. In:
 _BMC Research Notes_ 5.
-
-Stoltzfus, A, B. **O'Meara**, J. Whitacre, R. Mounce, E. L. Gillespie, S.
-Kumar, D. F. Rosauer and R. A. Vos (2012b). “Sharing and re-use of
-phylogenetic trees (and associated data) to facilitate synthesis”. In:
-_BMC Research Notes_ 5.1, p. 574.
 
 Smith, S. and B. **O'Meara** (2012). “TreePL: Divergence time estimation
 using penalized likelihood for large phylogenies”. In: _Bioinformatics_
 28.20, pp. 2689-2690.
-
-**O'Meara**, B. (2012). “Evolutionary inferences from phylogenies: A review
-of methods”. In: _Annual Review of Ecology, Evolution, and Systematics_
-43, pp. 267-285.
 
 Beaulieu, J, D. Jhwueng, C. Boettiger and B. **O'Meara** (2012). “Modeling
 stabilizing selection: Expanding the Ornstein-Uhlenbeck model of
