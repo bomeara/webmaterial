@@ -18,7 +18,7 @@ I have mentored numerous postdocs off of my own grants and/or as one of their ch
 |[Ryan Martin](http://www.martinevolutionaryecologylab.com)        |2012-2013    |Y       |Assistant Professor Case Western U                              |
 |[Nick Matzke](http://nickmatzke.weebly.com)                       |2013-2015    |Y       |DECRA Fellow at The Australian National University in Canberra  |
 |[Megan Rua](https://meganrua.wordpress.com)                       |2015-2016    |Y       |Assistant Professor Wright State U                              |
-|[Sergei Tarasov](https://sites.google.com/site/starasovresearch/) |2016-present |Y       |                                                                |
+|[Sergei Tarasov](https://sites.google.com/site/starasovresearch/) |2016-present |Y       |NIMBioS postdoc                                                 |
 
 
 ##Mentoring, Grad students in my lab
