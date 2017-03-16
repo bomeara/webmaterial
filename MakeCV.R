@@ -4,6 +4,7 @@ library(cv)
 CreateMarkdown()
 FinalCompileCV()
 system(paste("cp ", tempdir(), "/OM* .", sep=""))
+system(paste("cp ", tempdir(), "/*md .", sep=""))
 
 #Stupid. But otherwise the header class for tables causes problems with the theme
 x <- readLines("OMearaCV.html")
