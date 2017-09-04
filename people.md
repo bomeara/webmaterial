@@ -9,6 +9,7 @@ I have mentored numerous postdocs off of my own grants and/or as one of their ch
 |:-----------------------------------------------------------------|:------------|:-------|:---------------------------------------------------------------|
 |[Hugo Alamillo](https://people.northseattle.edu/users/halamillo)  |2011-2012    |N       |Assistant Professor North Seattle College                       |
 |[Barb Banbury](https://www.linkedin.com/in/bbanbury)              |2010-2012    |N       |Statistical Analyst at Fred Hutch                               |
+|David Bapst                                                       |2017-present |N       |                                                                |
 |[Jeremy Beaulieu](http://www.jeremybeaulieu.org/)                 |2012-2016    |Both    |Assistant Professor at U. of Arkansas                           |
 |Juanjuan (JJ) Crosskey (formerly Chai)                            |2011-2013    |Y       |Member of Comparative Genomics group at Oak Ridge National Lab  |
 |[Nathan Jackson](http://nathandjackson.com/)                      |2013-2016    |N       |Researcher at National Jewish Health                            |
@@ -18,6 +19,7 @@ I have mentored numerous postdocs off of my own grants and/or as one of their ch
 |[Ryan Martin](http://www.martinevolutionaryecologylab.com)        |2012-2013    |Y       |Assistant Professor Case Western U                              |
 |[Nick Matzke](http://nickmatzke.weebly.com)                       |2013-2015    |Y       |DECRA Fellow at The Australian National University in Canberra  |
 |[Megan Rua](https://meganrua.wordpress.com)                       |2015-2016    |Y       |Assistant Professor Wright State U                              |
+|Luna Sanchez Reyes                                                |2017-present |N       |                                                                |
 |[Sergei Tarasov](https://sites.google.com/site/starasovresearch/) |2016-present |Y       |NIMBioS postdoc                                                 |
 
 
@@ -29,8 +31,8 @@ I have mentored numerous postdocs off of my own grants and/or as one of their ch
 |Name                                                                 |Stage       |Time in Lab  |Note                           |
 |:--------------------------------------------------------------------|:-----------|:------------|:------------------------------|
 |[Sam Borstein](https://fish4thought.wordpress.com/)                  |PhD student |2014-present |                               |
-|[Jenn Bosco](https://sites.google.com/site/jenniferboscoinfo/home)   |PhD student |2012-present |Co-advised with Susan Riechert |
-|[Katie Massana](https://sites.google.com/site/kathrynamassana/home)  |PhD student |2012-present |                               |
+|[Jenn Bosco](https://sites.google.com/site/jenniferboscoinfo/home)   |PhD student |2012-2017    |Co-advised with Susan Riechert |
+|[Katie Massana](https://sites.google.com/site/kathrynamassana/home)  |PhD student |2012-2017    |                               |
 |[Orlando Schwery](https://sites.google.com/site/orlandoschwery/home) |PhD student |2014-present |                               |
 
 

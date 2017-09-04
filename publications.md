@@ -3,9 +3,25 @@
 ##Publications: Papers
 
 
-According to Google Scholar, my work has been cited 2316 times, and my h-index is 18. (Google Scholar tends to overestimate citations, however).
+According to Google Scholar, my work has been cited 2643 times, and my h-index is 19. (Google Scholar tends to overestimate citations, however).
 
 
+
+Morales, A, N. Jackson, T. Dewey, B. **O'Meara** and B. Carstens (2017).
+“Speciation with gene flow in North American Myotis bats”. In:
+_Systematic Biology_ 66.3, pp. 440-452.
+
+Jackson, N. D, A. E. Morales, B. C. Carstens and B. C. **O'Meara** (2017).
+“PHRAPL: Phylogeographic Inference Using Approximate Likelihoods”. In:
+_Systematic Biology_.
+
+Jackson, N. D, B. C. Carstens, A. E. Morales and B. C. **O'Meara** (2017).
+“Species Delimitation with Gene Flow”. In: _Systematic biology_, p.
+syw117.
+
+Bosco, J, S. Riechert and B. **O'Meara** (2017). “The ontogeny of
+personality traits in the desert funnel-web spider, Agelenopsis lisa
+(Araneae: Agelenidae)”. In: _Ethology_.
 
 Schwery, O. and B. C. **O'Meara** (2016). “ MonoPhy : a simple R package to
 find and visualize monophyly issues ”. In: _PeerJ Computer Science_ 2,
