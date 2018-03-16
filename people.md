@@ -12,6 +12,7 @@ I have mentored numerous postdocs off of my own grants and/or as one of their ch
 |David Bapst                                                       |2017-present |N       |                                                                |
 |[Jeremy Beaulieu](http://www.jeremybeaulieu.org/)                 |2012-2016    |Both    |Assistant Professor at U. of Arkansas                           |
 |Juanjuan (JJ) Crosskey (formerly Chai)                            |2011-2013    |Y       |Member of Comparative Genomics group at Oak Ridge National Lab  |
+|[Dominic Evangelista](https://www.roachbrain.com)                                                       |2018-present |N       |                                                                |
 |[Nathan Jackson](http://nathandjackson.com/)                      |2013-2016    |N       |Researcher at National Jewish Health                            |
 |[Tony Jhwueng](http://www.tonyjhwueng.info/)                      |2009-2011    |Y       |Assistant Professor Feng-Chia U., Taiwan                        |
 |[Sandy Kawano](http://sandykawano.weebly.com/)                    |2014-2016    |Y       |Starting as Assistant Professor at  CSU Long Beach in Aug. 2017 |
@@ -25,7 +26,7 @@ I have mentored numerous postdocs off of my own grants and/or as one of their ch
 
 ##Mentoring, Grad students in my lab
 
- 
+
 
 
 |Name                                                                 |Stage       |Time in Lab  |Note                           |
@@ -38,7 +39,7 @@ I have mentored numerous postdocs off of my own grants and/or as one of their ch
 
 ##Mentoring, Undergrad students in my lab
 
- 
+
 
 
 |Name                                                                      |Stage     |Time in Lab  |Note |
