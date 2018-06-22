@@ -1,9 +1,10 @@
 
 
-##Service
+## Service
 
 
-* Communications Director for the Society of Systematic Biologists (SSB), 2016-present
+* Joint Code of Conduct committee for Society for the Study of Evolution, Society of Systematic Biologists, and American Society of Naturalists, 2018-present
+* Communications Director for the Society of Systematic Biologists (SSB), 2016-2017
 * Co-organizer of iEvoBio meeting, 2016
 * Co-organizer of SSB symposium on Breaking Barriers: Empirical, Theoretical, and Gender Issues in Phylogenetics for Evolution meetings in Brazil, 2015
 * Co-organizer of SSB satellite meeting in May, 2015

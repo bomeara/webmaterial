@@ -1,13 +1,15 @@
 
 
-##Teaching
+## Teaching
 
 ### University Courses
 
-I created a course on macroevolution targeted at upper level undergraduate and graduate students: we cover diversification, symbiosis, game theory, and more. I have also taught large introductory courses and small discussion seminars. In Spring 2016, as part of an NSF CAREER grant, I started a mixed online and in person course on phylogenetic methods. It is being revised to be taught again in Spring 2017. Note that the "HOFF joint lab group discussion" was a collaborative lab group meeting of the Hulsey-O'Meara-Fordyce-Fitzpatrick labs.
+I created a course on macroevolution targeted at upper level undergraduate and graduate students: we cover diversification, symbiosis, game theory, and more. I have also taught large introductory courses and small discussion seminars. Note that the "HOFF joint lab group discussion" was a collaborative lab group meeting of the Hulsey-O'Meara-Fordyce-Fitzpatrick labs.
 
-| Year | Semester | Course Number |              Topic              |           Enrollment           | Percent Effort |
+| Year | Semester | Course Number | Topic                           | Enrollment                     | Percent Effort |     |
 | ---- | -------- | ------------- | ------------------------------- | ------------------------------ | -------------- | --- |
+| 2018 | Spring   | EEB603        | PhyloMeth                       | 2                              | 100            |     |
+| 2018 | Spring   | EEB504        | PhyloMeth                       | 5                              | 100            |     |
 | 2017 | Fall     | EEB464        | Macroevolution                  | 23                             | 100            |     |
 | 2017 | Spring   | EEB603        | PhyloMeth                       | 6                              | 100            |     |
 | 2017 | Spring   | EEB504        | PhyloMeth                       | 2                              | 100            |     |
@@ -49,6 +51,8 @@ I organize and/or participate in numerous workshops or tutorials.
 
 | Year |       Location        |                             Topic                              |          Role           |
 | ---- | --------------------- | -------------------------------------------------------------- | ----------------------- | --- |
+| 2018 | Friday Harbor, WA         | Evolutionary Quantitative Genetics workshop         | Instructor              |     |
+| 2017 | Friday Harbor, WA         | Evolutionary Quantitative Genetics workshop         | Instructor              |     |
 | 2017 | Baton Rouge, LA       | PHRAPL                                                         | Organizer/instructor    |     |
 | 2016 | Knoxville, TN         | Evolutionary Quantitative Genetics workshop at NIMBioS         | Instructor              |     |
 | 2015 | Ann Arbor, MI         | Comparative methods in R, SSB satellite meeting                | Organizer/instructor    |     |
